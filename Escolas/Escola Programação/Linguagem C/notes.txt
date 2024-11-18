@@ -1,0 +1,26 @@
+
+
+ESCOLA DE PROGRAMAÇÃO
+LINGUAGEM C
+
+Início.....: 18/11/2024
+Término....: XX/XX/XXXX
+
+------------------------------
+[1.0] Fundamentos da linguagem
+
+
+----------------------------------------------
+[1.1] C: conhecendo a Linguagem das Linguagens
+
+
+#include <stdio.h>  // funções de entrada/saída
+#include <math.h>    // funções matemáticas
+#include <stdlib.h> // funções de uso geral
+#include <string.h> // funções para uso de strings
+...
+
+-- compilador (GCC)
+-- gcc programa.c -o programa.out
+
+2. RECURSOS AVANÇADOS DA LINGUAGEM
